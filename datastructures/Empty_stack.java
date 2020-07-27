@@ -2,7 +2,7 @@ package datastructures;
 
 import java.util.Stack;
 
-public class stack {
+public class Empty_stack {
 public static void main(String[] args) {
 	Stack<Integer> stack = new Stack<>();
 	stack.push(200);
